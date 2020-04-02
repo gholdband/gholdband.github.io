@@ -100,6 +100,9 @@ a:hover{
 	background-position: -250px -10px;
 	margin: 0 10px 20px 10px;
 }
+.copyright{
+	padding-top: 20px;
+}
 
 /* Media queries */
 
